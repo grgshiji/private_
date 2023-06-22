@@ -1,0 +1,20 @@
+{
+  "blockId": "EtjYRwxKgjPdHcM5d1Kvk",
+  "name": "private_b1",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/private_.git",
+    "ssh": "git@github.com:grgshiji/private_.git",
+    "branch": "block_private_b1"
+  },
+  "parentBlockIDs": [
+    "JcPVb8ejxlhLmH7btpkGy"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "node index.js"
+}
